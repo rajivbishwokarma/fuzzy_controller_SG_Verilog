@@ -1,1 +1,1 @@
-# fuzzy_controller_SG_Verilog
+# Fuzzy controller for synchronous generator frequency control implemented in Verilog
